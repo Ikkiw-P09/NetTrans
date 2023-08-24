@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Noto Sans";
+  src: url(https://github.com/Ikkiw-P09/NetTrans/blob/50e8df3d982f2c608fb4f01aefa76b910f387d86/ntsn.ttf) format("truetype");
+
+  font-family: "Noto Sans Thai";
+  src: url(https://github.com/Ikkiw-P09/NetTrans/blob/50e8df3d982f2c608fb4f01aefa76b910f387d86/ntsn-th.ttf) format("truetype");
+  
+  font-family: "Noto Sans JP";
+  src: url(https://github.com/Ikkiw-P09/NetTrans/blob/50e8df3d982f2c608fb4f01aefa76b910f387d86/ntsn-jp.ttf format("truetype");
+}
+
+body { font-family: "Noto Sans", "Noto Sans Thai", "Noto Sans JP" }
+body {color: whitesmoke;}
